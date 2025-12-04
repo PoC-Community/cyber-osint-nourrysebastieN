@@ -3,6 +3,7 @@ STEP 1
 the picture has been taken in Lyon
 
 STEP 2
+48.890440609786445, 2.3838603658617212
 
 
 STEP 3
@@ -10,3 +11,9 @@ STEP 3
 STEP 4
 
 45.034199055440084, 3.091307790620433
+
+STEP 5
+
+device: iPhone 13 Pro
+date and time: June 12, 2022 15:32
+country: Bursimarka, Norvège
